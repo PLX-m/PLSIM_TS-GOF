@@ -2,7 +2,7 @@
 
 This repository provides the R/Python code and numerical results accompanying the manuscript **“Goodness-of-Fit Testing for High-Dimensional Partial Linear Single-Index Models under Weak Dependence”** (working title).
 
-The study develops goodness-of-fit tests for **partially linear single-index models (PLSIMs)** under weak dependence, including high-dimensional settings. The repository contains simulation scripts, saved Monte Carlo p-values, plotting code, and a real-data example. The implementation combines R-based statistical procedures with Python/PyTorch models for conditional-expectation estimation.
+The study develops goodness-of-fit tests for **partial linear single-index models (PLSIMs)** under weak dependence, including high-dimensional settings. The repository contains simulation scripts, saved Monte Carlo p-values, plotting code, and a real-data example. The implementation combines R-based statistical procedures with Python/PyTorch models for conditional-expectation estimation.
 
 ## Repository structure
 
