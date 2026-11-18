@@ -1,0 +1,6 @@
+# Python packages directly imported by code/python_ts.py.
+# Versions are intentionally not pinned because the simulations were run
+# on two different machines. See README.md for reproducibility notes.
+numpy
+torch
+scikit-learn
